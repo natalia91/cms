@@ -1,0 +1,24 @@
+
+body { background:#FFF0F5; margin: 0; }
+   .layout { width: 970px; margin: 0 auto 10px; background: #fff; }
+   .content { margin-right: 350px; padding: 10px; }
+   .sidebar { width: 320px; float: right; background: #EE82EE; }
+   .footer {
+    border-top: 1px solid #ccc; padding: 10px;
+   }
+   .sidebar{
+    float: left;
+    width: 25%;
+    clear: both;
+}
+.container {
+    float: left;
+    width: 70%;
+}
+.product {
+    float: left;
+    width: 30%;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ddd;
+}
